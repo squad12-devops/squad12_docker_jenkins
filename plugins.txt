@@ -21,7 +21,7 @@ ws-cleanup:latest
 blueocean:latest
 maven-plugin:latest
 pipeline-maven:latest
-sonar:latest
+sonar:2.8.1
 deploy:latest
 capitomcat:latest
 build-pipeline-plugin:latest
