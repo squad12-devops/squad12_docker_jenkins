@@ -21,7 +21,7 @@ ws-cleanup:latest
 blueocean:latest
 maven-plugin:latest
 pipeline-maven:latest
-sonar:2.8.1
+sonar:latest
 deploy:latest
 capitomcat:latest
 build-pipeline-plugin:latest
@@ -29,3 +29,7 @@ htmlpublisher:latest
 artifactory:latest
 slack:latest
 github:latest
+jira:latest
+blueocean-jira:latest
+BlazeMeterJenkinsPlugin:latest
+atlassian-jira-software-cloud:latest
